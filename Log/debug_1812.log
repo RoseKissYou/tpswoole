@@ -1,0 +1,1186 @@
+18-12-16 16:12:54:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 16:24:34:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 16:25:40:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 16:34:23:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 16:36:16:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 16:39:08:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 16:48:39:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 16:51:16:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 16:52:04:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 17:01:30:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 17:10:16:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 17:21:47:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 17:40:57:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 17:43:11:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 17:50:09:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 18:07:48:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-16 19:00:46:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-17 13:59:26:Error at file[/data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501]. Error: Address already in use[98]. in /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 9501, 3, 1)
+#1 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/wwwroot/68dj.cn/easyswoole(2): require('/data/wwwroot/6...')
+#7 {main}
+  thrown]
+18-12-17 14:00:21:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-17 17:27:48:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-17 20:41:54:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-17 23:34:12:Error at file[/data/wwwroot/68dj.cn/EasySwooleEvent.php] line[35] message:[Uncaught Error: Class 'EasySwoole\ProcessManager' not found in /data/wwwroot/68dj.cn/EasySwooleEvent.php:35
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/wwwroot/68dj.cn/easyswoole(2): require('/data/wwwroot/6...')
+#7 {main}
+  thrown]
+18-12-17 23:45:15:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-18 08:36:49:Error at file[/data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501]. Error: Address already in use[98]. in /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 9501, 3, 1)
+#1 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/wwwroot/68dj.cn/easyswoole(2): require('/data/wwwroot/6...')
+#7 {main}
+  thrown]
+18-12-18 08:37:19:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-18 08:38:43:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 08:41:03:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 08:53:19:Error at file[/data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501]. Error: Address already in use[98]. in /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 9501, 3, 1)
+#1 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/wwwroot/68dj.cn/easyswoole(2): require('/data/wwwroot/6...')
+#7 {main}
+  thrown]
+18-12-18 08:54:09:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-18 09:06:44:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-18 09:12:50:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 09:24:10:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 09:33:28:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 09:47:54:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 10:01:01:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 10:02:25:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 10:17:12:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 10:20:50:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 10:26:54:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 10:33:00:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 10:59:06:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 11:26:26:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 11:41:42:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 11:47:48:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 12:04:35:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+#6 /data/wwwroot/68dj.cn/vendor/topthink/think-o]
+18-12-18 12:08:44:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 13:03:50:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 13:05:14:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 14:18:53:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 14:18:56:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 14:19:10:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 14:24:55:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 14:27:26:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 14:31:56:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 15:44:06:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+18-12-18 15:48:40:Error at file[/data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501]. Error: Address already in use[98]. in /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 9501, 3, 1)
+#1 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/wwwroot/68dj.cn/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/wwwroot/68dj.cn/easyswoole(2): require('/data/wwwroot/6...')
+#7 {main}
+  thrown]
+18-12-18 15:49:18:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-18 16:50:10:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-18 16:50:21:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-18 16:50:45:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-18 19:44:06:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 09:40:20:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 09:41:23:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 09:48:14:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 10:26:02:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 10:59:00:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[56] message:[Undefined variable: pc_down]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[74] message:[Undefined variable: pc_down]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[79] message:[Undefined variable: pc_name]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[79] message:[Undefined variable: pc_down]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[80] message:[Undefined variable: pc_version]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[83] message:[Undefined variable: pc32_down]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[88] message:[Undefined variable: pc32_name]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[88] message:[Undefined variable: pc32_down]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[89] message:[Undefined variable: pc32_version]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[93] message:[Undefined variable: phone_down]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[97] message:[Undefined variable: phone_name]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[97] message:[Undefined variable: phone_down]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[98] message:[Undefined variable: phone_version]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[113] message:[Undefined variable: pc_down]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[116] message:[Undefined variable: pc_name]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[117] message:[Undefined variable: pc_version]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[120] message:[Undefined variable: pc32_down]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[123] message:[Undefined variable: pc32_name]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[124] message:[Undefined variable: pc32_version]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[127] message:[Undefined variable: phone_down]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[130] message:[Undefined variable: phone_name]
+18-12-19 11:41:37:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[131] message:[Undefined variable: phone_version]
+18-12-19 11:42:05:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 11:47:39:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 11:49:08:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 11:50:37:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 12:47:35:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 14:46:35:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 14:47:15:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 15:24:12:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 15:25:27:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 15:26:28:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 15:30:57:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 15:34:17:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 15:40:56:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 15:41:15:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:06:45:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:08:11:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:25:16:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:25:16:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 16:25:26:Error at file[/data/wwwroot/68dj.cn/App/HttpController/Index/Admin.php] line[9] message:[Class 'App\Base\AdminBaseController' not found]
+18-12-19 16:25:54:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:26:10:Error at file[/data/wwwroot/68dj.cn/App/HttpController/Index/Admin.php] line[44] message:[Undefined property: App\HttpController\Index\Admin::$_wxurl_model]
+18-12-19 16:27:58:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:29:26:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 16:32:42:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:33:01:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:33:02:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 16:33:04:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 16:46:28:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:46:28:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 16:50:17:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:50:35:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:50:40:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:51:28:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 16:51:36:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 16:51:53:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 16:54:25:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 16:54:27:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 18:27:50:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 18:27:50:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 18:27:54:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 18:30:30:Error at file[/data/wwwroot/68dj.cn/App/HttpController/Index/Admin.php] line[41] message:[Cannot redeclare App\HttpController\Index\Admin::index2()]
+18-12-19 18:31:37:Error at file[/data/wwwroot/68dj.cn/App/HttpController/Index/Admin.php] line[41] message:[Cannot redeclare App\HttpController\Index\Admin::index2()]
+18-12-19 18:31:56:Error at file[/data/wwwroot/68dj.cn/App/HttpController/Index/Admin.php] line[41] message:[Cannot redeclare App\HttpController\Index\Admin::index2()]
+18-12-19 18:32:24:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 18:32:24:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/02e7e9531702a35d083b3d81e0573aa6.php] line[273] message:[Undefined variable: adv_type]
+18-12-19 18:40:17:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/02e7e9531702a35d083b3d81e0573aa6.php] line[273] message:[Undefined variable: adv_type]
+18-12-19 18:40:23:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/02e7e9531702a35d083b3d81e0573aa6.php] line[273] message:[Undefined variable: adv_type]
+18-12-19 18:41:28:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 18:47:04:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 18:47:04:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 18:47:08:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/e4bc744ad31726a1871e383d06c3c7b7.php] line[9] message:[Undefined variable: title]
+18-12-19 18:47:54:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 18:48:01:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/02e7e9531702a35d083b3d81e0573aa6.php] line[212] message:[Undefined variable: adv_type]
+18-12-19 18:54:48:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 18:55:17:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 18:55:25:Error at file[/data/wwwroot/68dj.cn/App/HttpController/Home/Index.php] line[0] message:[Cannot declare class App\HttpController\Index\Index, because the name is already in use]
+18-12-19 18:59:44:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 18:59:44:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/02e7e9531702a35d083b3d81e0573aa6.php] line[212] message:[Undefined variable: adv_type]
+18-12-19 18:59:47:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/da5d39dc4940c2b7acf13fbc2b8e0422.php] line[4] message:[Undefined variable: test]
+18-12-19 19:00:14:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/da5d39dc4940c2b7acf13fbc2b8e0422.php] line[4] message:[Undefined variable: test]
+18-12-19 19:00:14:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/da5d39dc4940c2b7acf13fbc2b8e0422.php] line[4] message:[Undefined variable: test]
+18-12-19 19:00:16:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/da5d39dc4940c2b7acf13fbc2b8e0422.php] line[4] message:[Undefined variable: test]
+18-12-19 19:00:21:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 19:00:21:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/da5d39dc4940c2b7acf13fbc2b8e0422.php] line[4] message:[Undefined variable: test]
+18-12-19 19:00:22:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/da5d39dc4940c2b7acf13fbc2b8e0422.php] line[4] message:[Undefined variable: test]
+18-12-19 19:00:23:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/da5d39dc4940c2b7acf13fbc2b8e0422.php] line[4] message:[Undefined variable: test]
+18-12-19 19:00:23:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/da5d39dc4940c2b7acf13fbc2b8e0422.php] line[4] message:[Undefined variable: test]
+18-12-19 19:00:23:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/da5d39dc4940c2b7acf13fbc2b8e0422.php] line[4] message:[Undefined variable: test]
+18-12-19 19:00:46:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-19 19:00:46:Error at file[/data/wwwroot/68dj.cn/Temp/templates_c/da5d39dc4940c2b7acf13fbc2b8e0422.php] line[4] message:[Undefined variable: test]
+18-12-19 19:01:45:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-29 14:03:19:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-29 14:19:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:49:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:55:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:57:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:19:59:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:01:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:03:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:03:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:20:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:57:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:21:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:22:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:23:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:24:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:25:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:26:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:27:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:28:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:29:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:30:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:31:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:32:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:33:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:34:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:35:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:36:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:37:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:38:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:39:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:40:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:41:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:42:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:12:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:14:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:28:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:30:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:32:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:34:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:36:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:38:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:40:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:42:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:44:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:46:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:48:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:50:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:52:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:54:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:56:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:43:58:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:00:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:02:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:04:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:06:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:08:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:10:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:16:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:18:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:20:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:22:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:24:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-29 14:44:26:Error at file[/data/wwwroot/68dj.cn/App/Model/Wx.php] line[19] message:[Undefined variable: user_agent]
+18-12-30 09:43:21:Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+18-12-30 09:44:51:Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]

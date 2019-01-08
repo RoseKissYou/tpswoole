@@ -1,0 +1,120 @@
+{extend name="pcbase" /} {block name="body"}
+
+	<div class=content>
+				<!--style-->
+				<div class=intro>
+					<h1 class="title_h1" style="background-image:none;font-size:26px;font-weight:400;position:static;color:#2561ae;">海草，非一般的营销系统</h1>
+					<!-- <p class=intro_p>超过十亿人使用的手机应用</p>
+					<p class=intro_p>支持发送语音短信、视频、图片和文字</p>
+					<p class=intro_p>可以群聊，仅耗少量流量，适合大部分智能手机</p>  -->
+					<p class=intro_p>海草营销系统软件是一款基于微信公众号的营销<br />
+						管理系统，它集客户来源渠道分析、客户智能沟通、<br />
+						客户多次挖掘、公司客服绩效管理、粉丝活跃度统计<br />
+						等功能于一体，帮助企业高效管理公众号粉丝，降低<br />
+						投入成本，提高工作效率和产出，为业务成交提供<br />
+						全程支持。
+					</p>
+					<!-- <a style=margin-top:15px href="/cgi-bin/readtemplate?uin=&amp;stype=&amp;promote=&amp;fr=&amp;lang=zh_CN&amp;ADTAG=&amp;check=false&amp;nav=download&amp;t=weixin_download_list&amp;loc=readtemplate,weixin,body,6"
+					 class="btn_download left">免费下载</a> <a class="left btn_download_fromphone" href=javascript:GetDownUrlPanel();
+					 alt=在手机上下载微信></a> -->
+					<a class="btn_download" href="{$pc_down}">
+						<img src="/Public/static/images/1gjjxhb.png" alt="">
+					</a>
+					<div class=clr></div>
+					<div style=line-height:1.5;margin-top:10px>
+						<!-- <ul class=weixin_home_link>
+							<li><span class=dot></span> <a href="https://weixin110.qq.com/security/readtemplate?t=find_password/index"
+								 target=_blank>忘记了微信帐号或密码？</a> </li>
+							<li><span class=dot></span> <a href="https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/self_deblock__account&amp;lang=zh_CN"
+								 target=_blank>自助解除登录或功能限制</a> </li>
+							<li><span class=dot></span> <a href="https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/account_frozen__intro"
+								 target=_blank>冻结或解冻微信帐号</a> </li>
+						</ul> -->
+					</div>
+				</div>
+				<div id=img_intro class=img_intro style=right:60px>
+					<div id=circlePic class=circlePic> <a id=leftMove>pre</a> <a id=rightMove>next</a>
+						<ul id=circleList>
+							<li style=position:absolute;top:0;left:0> <a style="background:none;" target=_blank href="{$pc_down}"
+								 style=display:block>
+									<img class="adpic" src="/Public/static/images/2gk_8my.png" style="margin-top:20px;margin-left:25px;width:440px;height:280px;"
+									 alt="">
+								</a>
+								<p style=color:#000;text-align:center> <span> {$pc_name} <br> <span class=gray> <a href="{$pc_down}"
+											 style=margin-right:8px>{$pc_version}</a> </span> </span> </p>
+							</li>
+
+							<li style=position:absolute;top:0;left:0> <a style="background:none;" target=_blank href="{$pc32_down}"
+								style=display:block>
+								   <img class="adpic" src="/Public/static/images/2gk_8my.png" style="margin-top:20px;margin-left:25px;width:440px;height:280px;"
+									alt="">
+							   </a>
+							   <p style=color:#000;text-align:center> <span> {$pc32_name} <br> <span class=gray> <a href="{$pc32_down}"
+											style=margin-right:8px>{$pc32_version}</a> </span> </span> </p>
+						   </li>
+						   
+							<li style=position:absolute;top:0;left:0>
+								<a target=_blank href="{$phone_down}" style="display: block;width:100%;text-align: center;">
+									<img class="adpic" src="/Public/static/images/2vaomr0.png" style="margin:0 auto;margin-top:20px;width:auto;height:280px;"
+									 alt="">
+								</a>
+								<p style=color:#000;text-align:center> <span> {$phone_name} <br> <span class=gray> <a href="{$phone_down}"
+											 target=_blank style=margin-right:8px>{$phone_version}</a> </span> </span> </p>
+							</li>
+						</ul>
+						<ul id=currentPic></ul>
+					</div>
+				</div>
+				<!--style-->
+				<!--script-->
+				<!--style-->
+				<!--style-->
+
+			</div>
+	
+		<div id="daodu">
+			<div class="container daodu">
+				<a class="item" href="{$pc_down}">
+					<img src="/Public/static/images/1.png" alt="" class="icon">
+					<p>
+						{$pc_name} <br>
+						{$pc_version}
+					</p>
+				</a>
+				<a class="item" href="{$pc32_down}">
+					<img src="/Public/static/images/2.png" alt="" class="icon">
+					<p>
+						{$pc32_name}<br>
+						{$pc32_version}
+					</p>
+				</a>
+				<!-- <a class="item" href="{$phone_down}">
+					<img src="/Public/static/images/2.png" alt="" class="icon">
+					<p>
+						{$phone_name} <br>
+						{$phone_version}
+					</p>
+				</a> -->
+			</div>
+		</div>
+
+		<div class=container>
+			<div class="banner" id="lightbox_2">
+				<div class="img">
+					<img src="/Public/static/images/001.jpg" alt="#" class="lightbox-pic" data-role="lightbox" data-source="/Public/static/images/001.jpg" data-group="group-2" data-id="pic_2_1" data-caption="pic_2_1">
+				</div>
+				<div class="img">
+					<img src="/Public/static/images/002.jpg" alt="#" class="lightbox-pic" data-role="lightbox" data-source="/Public/static/images/002.jpg" data-group="group-2" data-id="pic_2_2" data-caption="pic_2_2">
+				</div>
+				<div class="img">
+					<img src="/Public/static/images/003.jpg" alt="#" class="lightbox-pic" data-role="lightbox" data-source="/Public/static/images/003.jpg" data-group="group-2" data-id="pic_2_3" data-caption="pic_2_3">
+				</div>
+				<div class="img">
+					<img src="/Public/static/images/004.jpg" alt="#" class="lightbox-pic" data-role="lightbox" data-source="/Public/static/images/004.jpg" data-group="group-2" data-id="pic_2_4" data-caption="pic_2_4">
+				</div>
+			</div>
+	</div>
+			
+			
+		
+		{/block} 

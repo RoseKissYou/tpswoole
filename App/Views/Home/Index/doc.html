@@ -1,0 +1,96 @@
+{extend name="fasion" /} {block name="body"}
+
+<div class=container>
+			<div class="helpdoc">
+				<div class="top">海草客服系统帮助文档</div>
+				<div class="left">
+					<div class="item active">开始前必读</div>
+					<div class="item">接入指南</div>
+					<div class="item">在线客服</div>
+				</div>
+				<div class="right">
+					<div class="itembox active">
+						<h2 class="page_title">海草营销系统开发概述</h2>
+						<p>
+							海草软件是一款基于微信公众号的营销管理系统，它集客户来源渠道分析、客户智能沟通、客户多次挖掘、公司客服绩效管理、粉丝活跃度统计等功能于一体，帮助企业高效管理公众号粉丝，降低投入成本，提高工作效率和产出，为业务成交提供全程支持。
+						</p>
+						<div class="img" style="margin-top: -30px;"><br>
+							<img src="/Public/static/picture/1.1.jpg" alt=""><br>
+						</div>
+					</div>
+					<div class="itembox">
+						<h2 class="page_title">接入指南</h2>
+						<p>点击右上角“免费试用”按钮进入系统后台注册页，注册海草帐号后，正式使用海草系统。</p>
+						<p>公众号接入海草系统，使用者需要按照如下步骤完成：<br>
+						1、设置好公众号的账号，接入公众号<br>
+						2、设置公众号模版消息功能<br>
+						3、海草创建账号<br>
+						4、海草建立常用功能，标签，聊天，离线回复等<br>
+						<b style="font-size: 20px;">下面详细介绍这4个步骤。</b></p>
+
+						<div class="title">第一步</div>
+						<p>设置好公众号的账号，接入公众号</p>
+						<div class="img" style="margin-top: -30px;"><br>
+							设置公众号账号↓↓<br>
+							<img src="/Public/static/picture/doc2.8.png" alt=""><br><br><br>
+							接入公众号↓↓<br>
+							<img src="/Public/static/picture/doc2.1.jpg" alt=""><br><br><br>
+							公众号管理员扫码授权↓↓<br>
+							<img src="/Public/static/picture/doc2.2.jpg" alt="">
+						</div><br><br>
+						<div class="title">第二步</div>
+						<p>设置公众号模版消息功能</p>
+						<div class="img" style="margin-top: -30px;"><br>
+							开通公众号模板消息后海草设置文案模板↓↓<br>
+							<img src="/Public/static/picture/doc2.3.jpg" alt="">
+						</div><br><br>
+						<div class="title">第三步</div>
+						<p>海草创建账号</p>
+						<div class="img" style="margin-top: -30px;">
+							<img src="/Public/static/picture/doc2.4.jpg" alt="">
+						</div><br><br>
+						<div class="title">第四步</div>
+						<p>海草测试常用功能是否正常，标签、聊天、离线回复等</p>
+						<div class="img" style="margin-top: -30px;"><br>
+							标签↓↓<br>
+							<img src="/Public/static/picture/doc2.5.jpg" alt=""><br><br><br>
+							聊天↓↓<br>
+							<img src="/Public/static/picture/doc2.6.jpg" alt=""><br><br><br>
+							离线回复↓↓<br>
+							<img src="/Public/static/picture/doc2.7.jpg" alt="">
+						</div><br><br>
+					</div>
+					<div class="itembox">
+						<h2 class="page_title">在线客服</h2>
+						<p>
+							扫码下方客服二维码添加微信，说明需求“海草系统”，帮您解答系统使用问题。
+						</p>
+						<div class="img">
+							<img src="/Public/static/images/774025475179654284.jpg" width="200" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+			<script>
+		$( function() {
+
+			$( '#lightbox_2' ).lightbox();
+
+			$( '#lightbox_popup' ).click( function() {
+				$( '#lightbox_popup .btn-close' ).click()
+			} )
+			$( '#lightbox_popup .pic' ).click( function( event ) {
+				event.stopPropagation()
+			} )
+
+			$( '.helpdoc .left .item' ).click( function() {
+				$( '.helpdoc .left .item' ).removeClass( 'active' )
+				$( this ).addClass( 'active' )
+				$( '.helpdoc .right .itembox' ).removeClass( 'active' )
+				$( '.helpdoc .right .itembox' ).eq( $( this ).index() ).addClass( 'active' )
+			} )
+
+		} );
+	</script>
+		
+{/block} 

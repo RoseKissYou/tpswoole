@@ -1,0 +1,216 @@
+[2018-12-17 08:27:48 $29229.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-12-17 08:27:48 $29229.0]	WARNING	swManager_check_exit_status: worker#16 abnormal exit, status=0, signal=1
+[2018-12-17 08:27:48 *29240.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-17 08:27:48 *29247.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-17 08:27:48 *29245.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-17 08:27:48 *29242.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-17 08:27:48 *29243.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-17 08:27:48 *29246.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-17 08:27:48 *29241.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-17 08:27:48 *29244.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-17 08:27:48 #29228.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-17 14:00:04 #29228.2]	NOTICE	Server is shutdown now.
+[2018-12-18 08:37:04 #16132.2]	NOTICE	Server is shutdown now.
+[2018-12-18 08:38:43 ^21662.15]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 08:38:43 $21652.0]	WARNING	swManager_check_exit_status: worker#15 abnormal exit, status=255, signal=0
+[2018-12-18 08:41:03 ^21795.11]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 08:41:03 $21652.0]	WARNING	swManager_check_exit_status: worker#11 abnormal exit, status=255, signal=0
+[2018-12-18 08:44:17 *21669.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 08:44:17 *21668.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 08:44:17 *21670.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 08:44:17 #21651.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 08:44:17 *21666.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 08:44:17 *21664.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 08:44:17 *21667.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 08:44:17 *21663.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 08:44:17 $21652.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-12-18 08:44:17 $21652.0]	WARNING	swManager_check_exit_status: worker#16 abnormal exit, status=0, signal=1
+[2018-12-18 08:44:17 *21665.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 08:44:17 $21652.0]	WARNING	swManager_check_exit_status: worker#17 abnormal exit, status=0, signal=1
+[2018-12-18 08:53:30 #21651.2]	NOTICE	Server is shutdown now.
+[2018-12-18 09:12:50 ^23204.12]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 09:12:50 $23067.0]	WARNING	swManager_check_exit_status: worker#12 abnormal exit, status=255, signal=0
+[2018-12-18 09:15:27 *23083.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 09:15:27 *23081.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 09:15:27 *23079.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 09:15:27 *23078.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 09:15:27 #23066.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 09:15:27 *23085.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 09:15:27 $23067.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-12-18 09:15:27 $23067.0]	WARNING	swManager_check_exit_status: worker#16 abnormal exit, status=0, signal=1
+[2018-12-18 09:15:27 *23080.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 09:15:27 *23084.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 09:15:27 *23082.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-18 09:15:27 $23067.0]	WARNING	swManager_check_exit_status: worker#17 abnormal exit, status=0, signal=1
+[2018-12-18 09:24:10 ^23489.13]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 09:33:28 ^23656.10]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 09:47:54 ^23929.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 10:01:01 ^24153.12]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 10:02:25 ^24190.13]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 10:17:12 ^24467.14]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 10:20:50 ^24533.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 10:26:54 ^24641.10]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 10:33:00 ^24745.12]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 10:59:06 ^25219.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 11:26:26 ^25767.14]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 11:41:42 ^27296.15]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 11:47:48 ^27395.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 12:04:35 ^27936.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthin
+[2018-12-18 12:08:44 ^28001.15]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 13:03:50 ^29054.10]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 13:05:14 ^29077.15]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 14:18:53 ^30455.10]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 14:18:56 ^30459.14]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 14:19:10 ^30461.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 14:24:55 ^30572.11]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 14:27:26 ^30613.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 14:31:56 ^30700.15]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 15:44:06 ^32036.15]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-18 15:48:31 #23066.2]	NOTICE	Server is shutdown now.
+[2018-12-19 09:12:32 $3047.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-12-19 09:12:32 *3064.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-19 09:12:32 *3062.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-19 09:12:32 *3059.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-19 09:12:32 *3061.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-19 09:12:32 *3058.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-19 09:12:32 *3060.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-19 09:12:32 *3063.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-19 09:12:32 *3065.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-19 09:12:32 #3046.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-12-19 09:12:32 $3047.0]	WARNING	swManager_check_exit_status: worker#16 abnormal exit, status=0, signal=1
+[2018-12-19 09:12:32 $3047.0]	WARNING	swManager_check_exit_status: worker#17 abnormal exit, status=0, signal=1
+[2018-12-19 09:40:00 #3046.2]	NOTICE	Server is shutdown now.
+[2018-12-19 16:25:26 *17209.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Class 'App\Base\AdminBaseController' not found in /data/wwwroot/68dj.cn/App/HttpController/Index/Admin.php on line 9.
+[2018-12-19 16:25:26 $17192.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2018-12-19 16:51:02 *17615.6]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 180 byte failed, because connection[fd=1] is closed.
+[2018-12-19 16:51:02 *17615.6]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 171 byte failed, because connection[fd=1] is closed.
+[2018-12-19 16:51:53 *17616.7]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 180 byte failed, because connection[fd=2] is closed.
+[2018-12-19 16:51:53 *17616.7]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 171 byte failed, because connection[fd=2] is closed.
+[2018-12-19 16:51:53 *17609.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 175 byte failed, because connection[fd=3] is closed.
+[2018-12-19 16:51:53 *17609.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 166 byte failed, because connection[fd=3] is closed.
+[2018-12-19 16:54:45 *17678.6]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 175 byte failed, because connection[fd=1] is closed.
+[2018-12-19 16:54:45 *17678.6]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 166 byte failed, because connection[fd=1] is closed.
+[2018-12-19 18:30:30 *18723.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Cannot redeclare App\HttpController\Index\Admin::index2() in /data/wwwroot/68dj.cn/App/HttpController/Index/Admin.php on line 41.
+[2018-12-19 18:30:30 $18706.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2018-12-19 18:31:37 *18727.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Cannot redeclare App\HttpController\Index\Admin::index2() in /data/wwwroot/68dj.cn/App/HttpController/Index/Admin.php on line 41.
+[2018-12-19 18:31:37 $18706.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2018-12-19 18:31:56 *18724.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Cannot redeclare App\HttpController\Index\Admin::index2() in /data/wwwroot/68dj.cn/App/HttpController/Index/Admin.php on line 41.
+[2018-12-19 18:31:56 $18706.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2018-12-19 18:55:25 *19134.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Cannot declare class App\HttpController\Index\Index, because the name is already in use in /data/wwwroot/68dj.cn/App/HttpController/Home/Index.php on line 0.
+[2018-12-19 18:55:25 $19117.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+Error at file[/data/wwwroot/68dj.cn/App/Base/BaseController.php] line[18] message:[Declaration of App\Base\BaseController::init($actionName, $request, $response) should be compatible with App\Base\ViewController::init(string $actionName, EasySwoole\Core\Http\Request $request, EasySwoole\Core\Http\Response $response)]
+PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+ in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php on line 503
+
+Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+ in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php on line 503
+Error at file[/data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php] line[503] message:[Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->connect()
+#2 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(618): think\db\Connection->initConnect(false)
+#3 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/connector/Mysql.php(90): think\db\Connection->query('SHOW COLUMNS FR...', Array, false, true)
+#4 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(379): think\db\connector\Mysql->getFields('`think_wxurlsch...')
+#5 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(433): think\db\Connection->getTableInfo('think_wxurlsche...', 'bind')
+]
+[2018-12-30 09:44:51 ^15170.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php:503
+Stack trace:
+#0 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(503): PDO->__construct('mysql:host=rm-b...', 'think_wechat', 'Xpa_19930201', Array)
+#1 /data/wwwroot/68dj.cn/vendor/topthink/think-orm/src/db/Connection.php(2014): think\db\Connection->c
+[2018-12-30 09:44:52 $15158.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0

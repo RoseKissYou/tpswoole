@@ -1,0 +1,27 @@
+<table class="layui-table">
+                        <thead>
+                        <tr>
+                           
+                            <th>id</th>
+                            <th>cookie</th>
+                            
+                            <th>状态</th>
+                            <th>用户名</th>
+                            <th>登录域名</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {foreach name="result" item="vo"}
+                        <tr>
+                           
+                            <td>{$vo.id}</td>
+                           
+                            <td>{$vo.cookie}</td>
+                           
+                            <td>{php}echo $vo['status']==1 ? '有效' : '失效';{/php}</td>
+                            <td>{$vo.username}</td>
+                           <td>{php}echo $vo['wxhead']==1 ? 'wx.qq.com' : 'wx2.qq.com';{/php}</td>
+                        </tr>
+                        {/foreach}
+                        </tbody>
+                    </table>
